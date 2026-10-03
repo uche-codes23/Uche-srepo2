@@ -6,3 +6,7 @@ Example 1:
 Example 2:
 
 5 - 2 = 3
+
+Example 3:
+
+3 - 4 = -1
